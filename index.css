@@ -1,0 +1,21 @@
+main {
+    flex-wrap: nowrap;
+    height: 100vh;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+
+body {
+  min-height: 100vh;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.link-btn{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
